@@ -1,0 +1,10 @@
+test_loss,0.021716861054301262
+test_mse_valence,0.011460631154477596
+test_mae_valence,0.0809115543961525
+test_pearson_corr_valence,0.48401119524241665
+test_mse_arousal,0.03197309002280235
+test_mae_arousal,0.1296696811914444
+test_pearson_corr_arousal,0.23340288532358971
+test_runtime,2.7659
+test_samples_per_second,928.103
+test_steps_per_second,29.286
