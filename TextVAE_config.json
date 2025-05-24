@@ -1,0 +1,26 @@
+{   
+    "batch_size": 64,
+    "embedding_size": 200,
+    "vocab_size": 10000,
+    "hidden_size": 1024,
+    "num_layers": 4,
+    "dropout": 0.2,
+    "clip_grad_norm":5,
+
+
+    "lr": 0.001,
+    "num_epochs": 1,
+    "weight_decay": 0.01,
+
+    "UNK_INDEX": 0,
+    "PAD_INDEX": 1,
+    "SOS_INDEX": 2,
+    "EOS_INDEX": 3,
+
+    "lambda": 5.0,
+    "alpha": 5.0,
+
+    "patience_limit": 3,
+
+    "name":"TextVAE"
+}
