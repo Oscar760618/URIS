@@ -1,2 +1,0 @@
-# URIS
-PolyU URIS project
